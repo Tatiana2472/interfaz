@@ -104,7 +104,7 @@ public class CheckBox extends javax.swing.JDialog {
         mensaje=mensaje+"Gato ";  
         } if 
         (chkRaton.isSelected()) {              
-        mensaje=mensaje+"Raton ";  
+        mensaje=mensaje+"Conejo ";  
         }  
         etiResultado.setText(mensaje);  
     }//GEN-LAST:event_btnAceptarActionPerformed
